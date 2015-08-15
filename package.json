@@ -1,0 +1,25 @@
+{
+  "name": "npm2-dedupe-localdeps-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "sh test.sh"
+  },
+  "keywords": [],
+  "author": "Tim Oxley <secoif@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "90B6FB1D-apple": "file:90B6FB1D-apple",
+    "B8096B6B-carrot": "file:B8096B6B-carrot"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timoxley/npm2-dedupe-localdeps-issue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timoxley/npm2-dedupe-localdeps-issue/issues"
+  },
+  "homepage": "https://github.com/timoxley/npm2-dedupe-localdeps-issue#readme",
+  "description": ""
+}

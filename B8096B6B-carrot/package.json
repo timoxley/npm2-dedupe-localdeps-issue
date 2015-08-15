@@ -1,0 +1,15 @@
+{
+  "name": "B8096B6B-carrot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tim Oxley <secoif@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "8F453069-banana": "file:../8F453069-banana"
+  }
+}
